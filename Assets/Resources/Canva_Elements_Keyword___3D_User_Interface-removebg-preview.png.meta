@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 7809e6b39607dba409f88edb23804e1c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Canva_Elements_Keyword___3D_User_Interface-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 398
+        width: 115
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7396d7ae70a8e449ce69e017da6810
+      internalID: 580130079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canva_Elements_Keyword___3D_User_Interface-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 399
+        width: 119
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe6e10b9f2de048a27d9d45a637c9f
+      internalID: -1922117719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canva_Elements_Keyword___3D_User_Interface-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 273
+        width: 127
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d800902b8b8f24187fa2ced356452c
+      internalID: 1258452762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canva_Elements_Keyword___3D_User_Interface-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 262
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48177ac25dd98344876d4a73a4c1c04
+      internalID: -1708005837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canva_Elements_Keyword___3D_User_Interface-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 128
+        width: 116
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7614a31762a91694d9f9459792817938
+      internalID: -1624412227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_0: 580130079
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_1: -1922117719
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_10: 1940208436
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_11: 1258452762
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_12: -23225182
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_13: 1660515369
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_14: -1844602289
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_15: -1827340661
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_16: 1781756465
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_17: 1868244743
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_18: -1708005837
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_19: -1113254709
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_2: -1723834590
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_20: -1314416423
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_21: -1624412227
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_22: 1802632656
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_23: 1056281073
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_24: 1200952872
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_25: -1485483953
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_26: 1145741583
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_27: -1564930371
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_28: -1218069252
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_29: 1367834802
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_3: -926553314
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_30: -378847221
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_31: -1803857774
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_32: 1818655658
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_33: 1081565059
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_34: -172785395
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_35: 942594121
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_36: 1871032396
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_37: -1497932872
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_38: 4056625
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_39: -786804864
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_4: 401421515
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_40: 1071377582
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_41: -1507515615
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_42: 1197552825
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_43: -204037077
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_44: -26495859
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_45: 2090923698
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_46: -1473180418
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_47: -1468102723
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_48: 769144414
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_49: 1510152424
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_5: 1101022060
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_50: -1510458963
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_51: -316364125
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_52: -702034091
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_6: 1820264130
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_7: 1643630747
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_8: 1228613562
+      Canva_Elements_Keyword___3D_User_Interface-removebg-preview_9: -1348072126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
